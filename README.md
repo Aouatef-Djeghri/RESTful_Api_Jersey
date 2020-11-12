@@ -1,6 +1,9 @@
-# ServiceByPro 2020
 
 <h2>ServiceByPro Rest Api endPoints :</h2>
+
+
+
+--------------------
 
 LoginResources : <br/>
 POST 	/login<br/>
@@ -114,4 +117,6 @@ Rest API<br/>
 Hibentae verion 3.4<br/>
 Jackson JSON 2.10.5<br/>
 maven<br/>
-jersey<br/>
+jersey 2.29<br/>
+MySQL<br/>
+
