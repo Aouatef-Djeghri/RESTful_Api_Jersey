@@ -1,7 +1,7 @@
 
 <h2>ServicePro Rest API</h2>
 
-This <b>Rest api</b> serves as a Backend for a mobile application that you can find in this repo: <br/>https://github.com/Aouatef-Djeghri/Android_Java_Application.git )<br/>
+This <b>Rest api</b> serves as a Backend for a mobile application that you can find in this repo: <br/>https://github.com/Aouatef-Djeghri/Android_Java_Application<br/>
 
 --------------------
 It was implemented using :<br/>
