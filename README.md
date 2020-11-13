@@ -1,7 +1,7 @@
 
 <h2>ServicePro Rest API</h2>
 
-This <b>Rest api</b> serves as a Backend for a mobile application that you can find it in this repo: <br/>https://github.com/Aouatef-Djeghri/Android_Java_Application.git )<br/>
+This <b>Rest api</b> serves as a Backend for a mobile application that you can find in this repo: <br/>https://github.com/Aouatef-Djeghri/Android_Java_Application.git )<br/>
 
 --------------------
 It was implemented using :<br/>
@@ -11,7 +11,6 @@ Hibentae verion 3.4<br/>
 Jackson JSON 2.10.5<br/>
 Maven<br/>
 MySQL<br/>
-
 
 --------------------
 <h2>ServicePro Rest Api endPoints :</h2>
