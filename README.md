@@ -1,8 +1,19 @@
 
-<h2>ServiceByPro Rest Api endPoints :</h2>
+<h2>ServicePro Rest API</h2>
+
+This <b>Rest api</b> serves as a Backend for the android mobile application ServicePro ( You can find it in this repo : https://github.com/Aouatef-Djeghri/Android_Java_Application.git )<br/>
+--------------------
+It was implemented using :<br/>
+
+jersey 2.29<br/>
+Hibentae verion 3.4<br/>
+Jackson JSON 2.10.5<br/>
+Maven<br/>
+MySQL<br/>
 
 
-
+--------------------
+<h2>ServicePro Rest Api endPoints :</h2>
 --------------------
 
 LoginResources : <br/>
@@ -112,11 +123,4 @@ PUT 	/reviews/update
 DELETE 	/reviews/delete/{id}<br/>
 
 
---------------------
-Rest API<br/>
-Hibentae verion 3.4<br/>
-Jackson JSON 2.10.5<br/>
-maven<br/>
-jersey 2.29<br/>
-MySQL<br/>
 
